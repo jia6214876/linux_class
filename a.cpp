@@ -37,7 +37,6 @@ void insert(int new_y)
          return;
       }
    }
-   y[num_y]=new_y;
 }
  
 void process_data()
